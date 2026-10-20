@@ -24,9 +24,24 @@ I am a final-year Computer Science student at the University of Bahrain, and I a
 
 ---
 
+## Tools
+
+### Coding
+
+Editors I use to write code and check it before it ships.
+
+<table>
+<tr>
+<td align="center"><a href="https://openai.com/codex"><img src="assets/tools/codex.svg" width="84" height="84" alt="Codex"></a><br><sub>Codex</sub></td>
+<td align="center"><a href="https://claude.com/product/claude-code"><img src="assets/tools/claude-code.svg" width="84" height="84" alt="Claude Code"></a><br><sub>Claude Code</sub></td>
+<td align="center"><a href="https://cursor.com"><img src="assets/tools/cursor.svg" width="84" height="84" alt="Cursor"></a><br><sub>Cursor</sub></td>
+<td align="center"><a href="https://opencode.ai"><img src="assets/tools/opencode.svg" width="84" height="84" alt="OpenCode"></a><br><sub>OpenCode</sub></td>
+</tr>
+</table>
+
 ### Workflows and AI agents
 
-These are not programming tools and they are not design tools. They run workflows and AI agents on their own, from instructions.
+These take instructions and carry the work through: n8n connects apps and runs a workflow by itself, Hermes Agent carries out instructions as an assistant, and Grok Bot is xAI's bot that can act from a prompt.
 
 <table>
 <tr>
@@ -43,23 +58,6 @@ OpenRouter is the platform I use to get the API keys for my projects.
 <table>
 <tr>
 <td align="center"><a href="https://openrouter.ai"><img src="assets/platform/openrouter.svg" width="84" height="84" alt="OpenRouter"></a><br><sub>OpenRouter</sub></td>
-</tr>
-</table>
-
----
-
-## Tools
-
-### Coding
-
-Editors I use to write code and check it before it ships.
-
-<table>
-<tr>
-<td align="center"><a href="https://openai.com/codex"><img src="assets/tools/codex.svg" width="84" height="84" alt="Codex"></a><br><sub>Codex</sub></td>
-<td align="center"><a href="https://claude.com/product/claude-code"><img src="assets/tools/claude-code.svg" width="84" height="84" alt="Claude Code"></a><br><sub>Claude Code</sub></td>
-<td align="center"><a href="https://cursor.com"><img src="assets/tools/cursor.svg" width="84" height="84" alt="Cursor"></a><br><sub>Cursor</sub></td>
-<td align="center"><a href="https://opencode.ai"><img src="assets/tools/opencode.svg" width="84" height="84" alt="OpenCode"></a><br><sub>OpenCode</sub></td>
 </tr>
 </table>
 
