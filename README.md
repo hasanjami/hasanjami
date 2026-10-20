@@ -28,7 +28,7 @@ I am a final-year Computer Science student at the University of Bahrain, and I a
 
 ### Coding
 
-Editors I use to write code and check it before it ships.
+Codex, Claude Code, Cursor, and OpenCode help me write code and review it. I describe a change in plain words, then check the result before it ships.
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Editors I use to write code and check it before it ships.
 
 ### Workflows and AI agents
 
-These take instructions and carry the work through: n8n connects apps and runs a workflow by itself, Hermes Agent carries out instructions as an assistant, and Grok Bot is xAI's bot that can act from a prompt.
+n8n connects apps and runs a workflow by itself, so a task can move from one app to another without someone doing each step. Hermes Agent carries out instructions as an assistant, and Grok Bot is xAI's bot that can act from a prompt.
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ These take instructions and carry the work through: n8n connects apps and runs a
 
 ### API platform
 
-OpenRouter is the platform I use to get the API keys for my projects.
+OpenRouter is where I get API keys for my projects. With a key, an app can call an AI model and use the answer in the work.
 
 <table>
 <tr>
@@ -63,7 +63,7 @@ OpenRouter is the platform I use to get the API keys for my projects.
 
 ### Creation
 
-Tools I use to make visual work.
+Higgsfield makes images and video from a description. Blender is for 3D work, so I can model an object, animate it, and render a picture or a clip.
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ Tools I use to make visual work.
 
 ### Design
 
-Where I design an interface before I build it.
+Figma is where I design the screens of an app before I build them. I can lay out the text, buttons, and pages, then share that design so the look is settled first.
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ Where I design an interface before I build it.
 
 ### Build and ship
 
-Where I store data, test requests, and publish projects.
+Supabase stores an app's data, Hostinger puts a site on the web, and GitHub stores the code so it can be shared and published. Postman tests APIs by sending a request and showing the reply.
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ Where I store data, test requests, and publish projects.
 
 ### Languages
 
-The languages I use to write the core of a program are Java, JavaScript, TypeScript, Go, and Rust.
+I write programs in Java, JavaScript, TypeScript, Go, and Rust. JavaScript runs websites and apps, TypeScript is that same language with extra checks, Java and Go are for applications and services, and Rust is for fast programs that are careful with memory.
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ The languages I use to write the core of a program are Java, JavaScript, TypeScr
 
 ### Frameworks
 
-The frameworks I build with, and the language each one comes from.
+React, Next.js, and Vue are JavaScript tools for the pages people see and click. Express is JavaScript for the server that answers requests, and Bootstrap is CSS for layout and ready-made styling.
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ The frameworks I build with, and the language each one comes from.
 
 ### Interface
 
-HTML for structure, CSS for how the screen looks.
+HTML sets the structure of a page, such as headings, text, links, and buttons, and CSS sets the colors, spacing, and layout. With those two I make the page a person sees in the browser.
 
 <table>
 <tr>
@@ -140,7 +140,7 @@ HTML for structure, CSS for how the screen looks.
 
 ### SQL
 
-SQL is how I store and query relational data. I use MySQL when the app needs a full database server, and SQLite when the data can live in a single file.
+SQL is how I save records and look them up later. MySQL is a database server for an app, and SQLite keeps the same kind of data in a single file.
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ SQL is how I store and query relational data. I use MySQL when the app needs a f
 
 ### Backend APIs
 
-The contracts between a client and a server. REST is the style I use for ordinary requests. GraphQL is the query API behind my student dashboard, so the client asks only for the fields it needs. Socket.IO is the live channel in the multiplayer game, where the server pushes updates as they happen. Signed-in routes use JWT.
+REST is how an app asks a server for something and gets an answer, GraphQL lets my student dashboard request only the fields it needs, and Socket.IO is the live channel in the multiplayer game so updates arrive as they happen. Signed-in routes use JWT, a signed token that shows who the person is.
 
 <table>
 <tr>
@@ -163,7 +163,7 @@ The contracts between a client and a server. REST is the style I use for ordinar
 
 ### Docker and Git
 
-Docker runs a project in the same environment on any machine. Git keeps the history of the code, so every change stays clear and can be shared.
+Docker runs a project in the same setup on any machine. Git keeps the history of the code, so each change is saved and can be shared or undone.
 
 <table>
 <tr>
@@ -174,7 +174,7 @@ Docker runs a project in the same environment on any machine. Git keeps the hist
 
 ### Automation and agents
 
-Alongside the applications I build, I also make automation and small agents. These are systems that follow a clear set of instructions and finish a task without someone watching every step.
+Automation runs a set of steps on its own, and AI agents follow instructions and finish a task. Alongside the applications I build, I use these so some jobs can finish without someone watching every step.
 
 <table>
 <tr>
