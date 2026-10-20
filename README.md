@@ -97,22 +97,6 @@ Where I store data, test requests, and publish projects.
 
 ---
 
-## Frameworks
-
-The frameworks I build with, and the language each one comes from.
-
-<table>
-<tr>
-<td align="center"><a href="https://react.dev"><img src="assets/frameworks/react.svg" width="84" height="84" alt="React"></a><br><sub><b>React</b><br>JavaScript</sub></td>
-<td align="center"><a href="https://nextjs.org"><img src="assets/frameworks/nextjs.svg" width="84" height="84" alt="Next.js"></a><br><sub><b>Next.js</b><br>JavaScript</sub></td>
-<td align="center"><a href="https://vuejs.org"><img src="assets/frameworks/vue.svg" width="84" height="84" alt="Vue"></a><br><sub><b>Vue</b><br>JavaScript</sub></td>
-<td align="center"><a href="https://expressjs.com"><img src="assets/frameworks/express.svg" width="84" height="84" alt="Express"></a><br><sub><b>Express</b><br>JavaScript</sub></td>
-<td align="center"><a href="https://getbootstrap.com"><img src="assets/frameworks/bootstrap.svg" width="84" height="84" alt="Bootstrap"></a><br><sub><b>Bootstrap</b><br>CSS</sub></td>
-</tr>
-</table>
-
----
-
 ## Skills
 
 ### Languages
@@ -126,6 +110,20 @@ The languages I use to write the core of a program are Java, JavaScript, TypeScr
 <td align="center"><a href="https://www.typescriptlang.org"><img src="assets/skills/typescript.svg" width="84" height="84" alt="TypeScript"></a><br><sub>TypeScript</sub></td>
 <td align="center"><a href="https://go.dev"><img src="assets/skills/go.svg" width="84" height="84" alt="Go"></a><br><sub>Go</sub></td>
 <td align="center"><a href="https://www.rust-lang.org"><img src="assets/skills/rust.svg" width="84" height="84" alt="Rust"></a><br><sub>Rust</sub></td>
+</tr>
+</table>
+
+### Frameworks
+
+The frameworks I build with, and the language each one comes from.
+
+<table>
+<tr>
+<td align="center"><a href="https://react.dev"><img src="assets/frameworks/react.svg" width="84" height="84" alt="React"></a><br><sub><b>React</b><br>JavaScript</sub></td>
+<td align="center"><a href="https://nextjs.org"><img src="assets/frameworks/nextjs.svg" width="84" height="84" alt="Next.js"></a><br><sub><b>Next.js</b><br>JavaScript</sub></td>
+<td align="center"><a href="https://vuejs.org"><img src="assets/frameworks/vue.svg" width="84" height="84" alt="Vue"></a><br><sub><b>Vue</b><br>JavaScript</sub></td>
+<td align="center"><a href="https://expressjs.com"><img src="assets/frameworks/express.svg" width="84" height="84" alt="Express"></a><br><sub><b>Express</b><br>JavaScript</sub></td>
+<td align="center"><a href="https://getbootstrap.com"><img src="assets/frameworks/bootstrap.svg" width="84" height="84" alt="Bootstrap"></a><br><sub><b>Bootstrap</b><br>CSS</sub></td>
 </tr>
 </table>
 
