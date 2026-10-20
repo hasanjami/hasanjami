@@ -84,11 +84,13 @@ Where I design an interface before I build it.
 
 ### Build and ship
 
-Where I store data, test requests, and publish projects.
+Where I store data with MySQL Workbench and DB Browser, test requests, and publish projects.
 
 <table>
 <tr>
 <td align="center"><a href="https://supabase.com"><img src="assets/tools/supabase.svg" width="84" height="84" alt="Supabase"></a><br><sub>Supabase</sub></td>
+<td align="center"><a href="https://www.mysql.com/products/workbench/"><img src="assets/tools/mysql-workbench.svg" width="84" height="84" alt="MySQL Workbench"></a><br><sub>MySQL Workbench</sub></td>
+<td align="center"><a href="https://sqlitebrowser.org/"><img src="assets/tools/sqlite-browser.svg" width="84" height="84" alt="DB Browser"></a><br><sub>DB Browser</sub></td>
 <td align="center"><a href="https://www.hostinger.com"><img src="assets/tools/hostinger.svg" width="84" height="84" alt="Hostinger"></a><br><sub>Hostinger</sub></td>
 <td align="center"><a href="https://github.com"><img src="assets/tools/github.svg" width="84" height="84" alt="GitHub"></a><br><sub>GitHub</sub></td>
 <td align="center"><a href="https://www.postman.com"><img src="assets/tools/postman.svg" width="84" height="84" alt="Postman"></a><br><sub>Postman</sub></td>
