@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="30" viewBox="0 0 110 30" role="img" aria-label="AI Agents">
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104" role="img" aria-label="AI Agents">
   <title>AI Agents</title>
-  <rect width="102" height="30" rx="15" fill="#F4EFE6"/>
-  <circle cx="15" cy="15" r="3.5" fill="#C47A3A"/>
-  <text x="26.0" y="20" fill="#1C1916" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">AI Agents</text>
+  <circle cx="52" cy="52" r="50" fill="#F4F1EA"/>
+  <g fill="none" stroke="#2456A6" stroke-width="3.2" stroke-linecap="round">
+    <circle cx="52" cy="40" r="7" fill="#2456A6" stroke="none"/>
+    <circle cx="34" cy="66" r="6"/><circle cx="70" cy="66" r="6"/>
+    <path d="M52 47v8M46 58l-8 6M58 58l8 6"/>
+  </g>
 </svg>
