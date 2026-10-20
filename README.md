@@ -1,122 +1,123 @@
-<div align="center">
+<p align="center">
+  <img src="assets/welcome.gif" width="880" height="280" alt="Hasan Abbas at a keyboard, typing a welcome as you arrive">
+</p>
 
-<img src="assets/welcome.gif" alt="Hasan Abbas at a keyboard. A visitor prompt types: You just walked in. Then Full-Stack Developer, Content Creator, and AI Agents." width="880">
+<p align="center">
+  <img src="assets/labels/full-stack.svg" height="40" alt="Full-Stack">
+  <img src="assets/labels/content-creator.svg" height="40" alt="Content Creator">
+  <img src="assets/labels/ai-agents.svg" height="40" alt="AI Agents">
+</p>
 
-<br><br>
+<p align="center">You can reach me on LinkedIn or by email, and I also share work on Instagram and TikTok.</p>
 
-<img src="assets/role-fullstack.png" alt="Full-Stack. Websites and servers.">
-&nbsp;
-<img src="assets/role-content.png" alt="Content Creator. Writing and video.">
-&nbsp;
-<img src="assets/role-agents.png" alt="AI Agents. Automation that acts.">
-
-<br><br>
-
-If you want to build something together, or just say hello, you can reach me here.
-
-<br><br>
-
-[![LinkedIn](assets/contact-linkedin.png)](https://www.linkedin.com/in/hasan-abbas-04b8123b0)
-&nbsp;
-[![Email](assets/contact-email.png)](mailto:hasanjami2004@gmail.com)
-&nbsp;
-[![Instagram](assets/contact-instagram.png)](https://www.instagram.com/7asan_jami)
-&nbsp;
-[![TikTok](assets/contact-tiktok.png)](https://www.tiktok.com/@7snjami)
-
-<br>
-
-[hasanjami2004@gmail.com](mailto:hasanjami2004@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-abbas-04b8123b0"><img src="assets/contact/linkedin.svg" height="42" alt="LinkedIn"></a>
+  <a href="mailto:hasanjami2004@gmail.com"><img src="assets/contact/email.svg" height="42" alt="Email"></a>
+  <a href="https://www.instagram.com/7asan_jami"><img src="assets/contact/instagram.svg" height="42" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@7snjami"><img src="assets/contact/tiktok.svg" height="42" alt="TikTok"></a>
+</p>
 
 ## About
 
-I am a final-year Computer Science student at the University of Bahrain, and a higher-diploma student at Reboot01. I am close to graduating from both.
-
-I build on the frontend and the backend, and I prefer the backend. Public work so far includes a social network in Go and Next.js, a GraphQL student dashboard, a Rust traffic simulation, and a realtime multiplayer game. The work I care about most is automation and AI agents: applications that take on a task and carry it through.
-
-I use AI as a daily part of building, then I review the output and correct it until the project is solid. I also write and make short videos, so an idea can live in a product or in a story.
+I am a final-year Computer Science bachelor's student at the University of Bahrain and a Higher Diploma student at Reboot01, a coding institute in Bahrain, close to graduating. I have shipped frontend and backend projects, and I prefer the backend. I am passionate about automation and AI agents, and I am currently building apps around that work. I use AI heavily, check the result myself, and keep the project solid.
 
 ## Tools
 
-The software I actually work in. Each box opens its site.
-
 ### AI coding
 
-Where I write, review, and run agents.
+Agents and editors I use to write and review code.
 
-[![Cursor](assets/tool-cursor.png)](https://cursor.com)
-[![Claude Code](assets/tool-claude.png)](https://www.anthropic.com/claude-code)
-[![Codex](assets/tool-codex.png)](https://openai.com/codex)
-[![Grok](assets/tool-grok.png)](https://grok.com)
-[![OpenCode](assets/tool-opencode.png)](https://opencode.ai)
-[![Hermes Agent](assets/tool-hermes.png)](https://hermes-agent.nousresearch.com/)
-[![OpenRouter](assets/tool-openrouter.png)](https://openrouter.ai)
+<p>
+  <a href="https://grok.com"><img src="assets/tools/grok.svg" height="32" alt="Grok"></a>
+  <a href="https://openai.com/codex"><img src="assets/tools/codex.svg" height="32" alt="Codex"></a>
+  <a href="https://claude.com/product/claude-code"><img src="assets/tools/claude-code.svg" height="32" alt="Claude Code"></a>
+  <a href="https://cursor.com"><img src="assets/tools/cursor.svg" height="32" alt="Cursor"></a>
+  <a href="https://opencode.ai"><img src="assets/tools/opencode.svg" height="32" alt="OpenCode"></a>
+  <a href="https://hermes-agent.nousresearch.com"><img src="assets/tools/hermes-agent.svg" height="32" alt="Hermes Agent"></a>
+  <a href="https://openrouter.ai"><img src="assets/tools/openrouter.svg" height="32" alt="OpenRouter"></a>
+</p>
 
-### Making and design
+### Automation and creation
 
-Workflows, motion, 3D, and interface design.
+Tools I use to automate work and make visual pieces.
 
-[![n8n](assets/tool-n8n.png)](https://n8n.io)
-[![Higgsfield](assets/tool-higgsfield.png)](https://higgsfield.ai)
-[![Blender](assets/tool-blender.png)](https://www.blender.org)
-[![Figma](assets/tool-figma.png)](https://www.figma.com)
+<p>
+  <a href="https://n8n.io"><img src="assets/tools/n8n.svg" height="32" alt="n8n"></a>
+  <a href="https://higgsfield.ai"><img src="assets/tools/higgsfield.svg" height="32" alt="Higgsfield"></a>
+  <a href="https://www.blender.org"><img src="assets/tools/blender.svg" height="32" alt="Blender"></a>
+</p>
 
-### Shipping
+### Design
 
-Where a project is stored, hosted, tested, and published. Postman is how I check an API before it ships.
+Where I design an interface before I build it.
 
-[![Supabase](assets/tool-supabase.png)](https://supabase.com)
-[![Hostinger](assets/tool-hostinger.png)](https://www.hostinger.com)
-[![GitHub](assets/tool-github.png)](https://github.com)
-[![Postman](assets/tool-postman.png)](https://www.postman.com)
+<p>
+  <a href="https://www.figma.com"><img src="assets/tools/figma.svg" height="32" alt="Figma"></a>
+</p>
+
+### Build and ship
+
+Where I store data, test requests, and publish projects.
+
+<p>
+  <a href="https://supabase.com"><img src="assets/tools/supabase.svg" height="32" alt="Supabase"></a>
+  <a href="https://www.hostinger.com"><img src="assets/tools/hostinger.svg" height="32" alt="Hostinger"></a>
+  <a href="https://github.com"><img src="assets/tools/github.svg" height="32" alt="GitHub"></a>
+  <a href="https://www.postman.com"><img src="assets/tools/postman.svg" height="32" alt="Postman"></a>
+</p>
 
 ## Skills
 
-Grouped by the job they do.
-
 ### Languages
 
-The languages I write software in.
+For writing the core of a program.
 
-<img src="assets/skill-java.png" alt="Java, an application language.">
-<img src="assets/skill-javascript.png" alt="JavaScript, a web language.">
-<img src="assets/skill-typescript.png" alt="TypeScript, typed JavaScript.">
-<img src="assets/skill-go.png" alt="Go, for backend services.">
-<img src="assets/skill-rust.png" alt="Rust, for systems programming.">
+<p>
+  <img src="assets/skills/java.svg" height="30" alt="Java">
+  <img src="assets/skills/javascript.svg" height="30" alt="JavaScript">
+  <img src="assets/skills/typescript.svg" height="30" alt="TypeScript">
+  <img src="assets/skills/go.svg" height="30" alt="Go">
+  <img src="assets/skills/rust.svg" height="30" alt="Rust">
+</p>
 
 ### Interface
 
-Structure, style, and the screens people use.
+For layout, components, and the screen people use.
 
-<img src="assets/skill-html.png" alt="HTML, page structure.">
-<img src="assets/skill-css.png" alt="CSS, visual layout.">
-<img src="assets/skill-bootstrap.png" alt="Bootstrap, responsive layout.">
-<img src="assets/skill-react.png" alt="React, interface components.">
-<img src="assets/skill-vue.png" alt="Vue, interface components.">
-<img src="assets/skill-nextjs.png" alt="Next.js, React applications.">
+<p>
+  <img src="assets/skills/html.svg" height="30" alt="HTML">
+  <img src="assets/skills/css.svg" height="30" alt="CSS">
+  <img src="assets/skills/bootstrap.svg" height="30" alt="Bootstrap">
+  <img src="assets/skills/react.svg" height="30" alt="React">
+  <img src="assets/skills/vue.svg" height="30" alt="Vue">
+  <img src="assets/skills/nextjs.svg" height="30" alt="Next.js">
+</p>
 
 ### Backend and data
 
-Storage, APIs, servers, and live connections. SQL here means MySQL and SQLite. REST is the API style I build against.
+For storing data in MySQL and SQLite and serving it with REST, GraphQL, and Express.
 
-<img src="assets/skill-sql.png" alt="SQL, MySQL and SQLite.">
-<img src="assets/skill-rest.png" alt="REST APIs, web service contracts.">
-<img src="assets/skill-graphql.png" alt="GraphQL, typed data queries.">
-<img src="assets/skill-express.png" alt="Express, HTTP servers.">
-<img src="assets/skill-socketio.png" alt="Socket.IO, live connections.">
+<p>
+  <img src="assets/skills/sql.svg" height="30" alt="SQL">
+  <img src="assets/skills/rest-apis.svg" height="30" alt="REST APIs">
+  <img src="assets/skills/graphql.svg" height="30" alt="GraphQL">
+  <img src="assets/skills/express.svg" height="30" alt="Express">
+</p>
 
-### Delivery
+### Systems
 
-How a project is packaged, and how its history stays intact.
+For packaging a service and keeping its history.
 
-<img src="assets/skill-docker.png" alt="Docker, packaged applications.">
-<img src="assets/skill-git.png" alt="Git, version history.">
+<p>
+  <img src="assets/skills/docker.svg" height="30" alt="Docker">
+  <img src="assets/skills/git.svg" height="30" alt="Git">
+</p>
 
-### AI practice
+### Practice
 
-Agents and automations that carry a task through.
+For automation and the agents I am building.
 
-<img src="assets/skill-automation.png" alt="Automation, workflows that run.">
-<img src="assets/skill-agents.png" alt="AI Agents, software that acts.">
+<p>
+  <img src="assets/skills/automation.svg" height="30" alt="Automation">
+  <img src="assets/skills/ai-agents.svg" height="30" alt="AI Agents">
+</p>
