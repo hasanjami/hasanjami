@@ -119,7 +119,7 @@ The frameworks I build with, and the language each one comes from.
 
 ### Languages
 
-The languages I use to write the core of a program.
+The languages I use to write the core of a program are Java, JavaScript, TypeScript, Go, and Rust.
 
 <table>
 <tr>
