@@ -73,9 +73,9 @@ OpenRouter is the platform I use to get the API keys for my projects.
 
 ## Tools
 
-### AI coding
+### Coding
 
-Editors and coding agents I use to write and review code.
+Editors I use to write code and check it before it ships.
 
 <table>
   <tr>
@@ -166,31 +166,32 @@ HTML for structure, CSS for how the screen looks.
   </tr>
 </table>
 
-### Data
+### SQL
 
-MySQL and SQLite store the data. GraphQL is how some of my projects query it.
+SQL is how I store and query relational data. I use MySQL when the app needs a full database server, and SQLite when the data can live in a single file.
 
 <table>
   <tr>
     <td align="center"><a href="https://www.mysql.com"><img src="assets/skills/mysql.svg" width="84" height="84" alt="MySQL"></a><br><sub>MySQL</sub></td>
     <td align="center"><a href="https://www.sqlite.org"><img src="assets/skills/sqlite.svg" width="84" height="84" alt="SQLite"></a><br><sub>SQLite</sub></td>
-    <td align="center"><a href="https://graphql.org"><img src="assets/skills/graphql.svg" width="84" height="84" alt="GraphQL"></a><br><sub>GraphQL</sub></td>
   </tr>
 </table>
 
-### APIs
+### Backend APIs
 
-REST is the interface a client uses to talk to a service.
+The contracts between a client and a server. REST is the style I use for ordinary requests. GraphQL is the query API behind my student dashboard, so the client asks only for the fields it needs. Socket.IO is the live channel in the multiplayer game, where the server pushes updates as they happen. Signed-in routes use JWT.
 
 <table>
   <tr>
-    <td align="center"><img src="assets/skills/rest-apis.svg" width="84" height="84" alt="REST APIs"><br><sub>REST APIs</sub></td>
+    <td align="center"><img src="assets/skills/rest-apis.svg" width="84" height="84" alt="REST APIs"><br><sub>REST</sub></td>
+    <td align="center"><a href="https://graphql.org"><img src="assets/skills/graphql.svg" width="84" height="84" alt="GraphQL"></a><br><sub>GraphQL</sub></td>
+    <td align="center"><a href="https://socket.io"><img src="assets/skills/socketio.svg" width="84" height="84" alt="Socket.IO"></a><br><sub>Socket.IO</sub></td>
   </tr>
 </table>
 
-### Systems
+### Docker and Git
 
-Docker packages a service. Git keeps the history of the work.
+Docker runs a project in the same environment on any machine. Git keeps the history of the code, so every change stays clear and can be shared.
 
 <table>
   <tr>
@@ -199,9 +200,9 @@ Docker packages a service. Git keeps the history of the work.
   </tr>
 </table>
 
-### Practice
+### Automation and agents
 
-Automation and AI agents are the work I am building toward: systems that act from instructions.
+Alongside the applications I build, I also make automation and small agents. These are systems that follow a clear set of instructions and finish a task without someone watching every step.
 
 <table>
   <tr>

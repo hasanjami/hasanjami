@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104" role="img" aria-label="Automation">
   <title>Automation</title>
   <circle cx="52" cy="52" r="50" fill="#F4F1EA"/>
-  <g fill="none" stroke="#2F6F4E" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M52 30a22 22 0 1 1-8 2"/>
-    <path d="M40 24l4 10 10-2"/>
+  <g fill="#1F6B45" transform="translate(52 52)">
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(45)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(90)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(135)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(180)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(225)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(270)"/>
+    <rect x="-5.5" y="-36" width="11" height="16" rx="2" transform="rotate(315)"/>
+    <circle r="22"/>
+    <circle r="8" fill="#F4F1EA"/>
   </g>
 </svg>
