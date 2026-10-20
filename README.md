@@ -28,7 +28,7 @@ I am a final-year Computer Science student at the University of Bahrain, and I a
 
 ### Coding
 
-Codex, Claude Code, Cursor, and OpenCode help me write code and review it. I describe a change in plain words, then check the result before it ships.
+Claude Code is where I think a change through: the steps, which ones are right, and how to carry them out. Codex is the one I trust most for design, layout, and frontend suggestions, and for seeing what a user wants. Cursor is the editor I moved to after a long time on VS Code. It is an AI environment built on the same idea as VS Code, which is why it feels familiar and why I prefer its features. OpenCode is a free AI coding tool I use when a project is small. AI stays an assistant. I check the code myself, I ask it to explain anything I do not yet understand, and if I suspect a flaw I did not catch, I have Claude and GPT review it, then I compare the two results.
 
 <table>
 <tr>
