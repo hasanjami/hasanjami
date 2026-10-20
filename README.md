@@ -119,7 +119,7 @@ The frameworks I build with, and the language each one comes from.
 
 ### Languages
 
-The languages I use to write the core of a program. Node.js is the runtime for the JavaScript services.
+The languages I use to write the core of a program.
 
 <table>
 <tr>
@@ -128,7 +128,6 @@ The languages I use to write the core of a program. Node.js is the runtime for t
 <td align="center"><a href="https://www.typescriptlang.org"><img src="assets/skills/typescript.svg" width="84" height="84" alt="TypeScript"></a><br><sub>TypeScript</sub></td>
 <td align="center"><a href="https://go.dev"><img src="assets/skills/go.svg" width="84" height="84" alt="Go"></a><br><sub>Go</sub></td>
 <td align="center"><a href="https://www.rust-lang.org"><img src="assets/skills/rust.svg" width="84" height="84" alt="Rust"></a><br><sub>Rust</sub></td>
-<td align="center"><a href="https://nodejs.org"><img src="assets/skills/nodejs.svg" width="84" height="84" alt="Node.js"></a><br><sub>Node.js</sub></td>
 </tr>
 </table>
 
