@@ -1,0 +1,13 @@
+[package]
+name = "filler"
+version = "0.1.0"
+edition = "2021"
+description = "Anfield player for the filler game engine"
+publish = false
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "filler"
+path = "src/main.rs"

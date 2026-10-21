@@ -1,0 +1,15 @@
+filler.zip
+zip-extract/
+docker_image/game_engine
+docker_image/robots/
+docker_image/solution/target/
+docker_image/solution/Cargo.lock
+visualizer/target/
+visualizer/Cargo.lock
+visualizer/matches/*.txt
+audit-results.txt
+wsl-recover.txt
+visualizer/preview.png
+visualizer/preview.ppm
+visualizer/preview.html
+visualizer/_check.mjs
